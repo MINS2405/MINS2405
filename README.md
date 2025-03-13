@@ -20,6 +20,10 @@ Je développe des solutions web et mobiles en mettant l'accent sur l'expérience
 ### En cours d'apprentissage :
 
 - :building_construction: **Développement Full Stack** : Découverte des frameworks modernes pour des applications complètes et performantes.
+- :lock: **Cybersécurité** : Exploration des principes et techniques pour protéger les systèmes et les données.
+- :coffee: **JavaScript** : Maîtrise du langage pour le développement web côté client.
+- :snake: **Python** : Apprentissage du langage pour diverses applications, notamment le développement web et l'automatisation.
+- :computer: **Langage C** : Fondements de la programmation système avec le langage C.
 
 ### Objectifs :
 

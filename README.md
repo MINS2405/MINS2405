@@ -104,12 +104,11 @@ Basée à Saint-Julien-en-Genevois, je cherche une alternance en cybersécurité
 # 📚 Lien de Présentation Programmation 
 https://mina-holbertonschool.my.canva.site/bleu-et-blanche-carte-heuristique-prsentation 
 
-# 🎓 Leçons enrichissantes
+## Ressources de programmation
 
-## Fichiers associés
-
-https://1drv.ms/w/c/335BB3EF1587B320/ARdm_soscmJIuxiwVEAGxak?e=l21fb2
-
+- [Tutoriel Python pour débutants](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
+- [Créer une application web avec Flask](https://realpython.com/python-web-applications/)
+- [Quiz interactif en JavaScript](https://dev.to/emmykolic/how-to-build-an-interactive-quiz-project-using-vanilla-javascript-jdh)
 
 
 ### 💖 Passions

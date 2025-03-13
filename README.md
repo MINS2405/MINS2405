@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MINS2405# Bienvenue sur mon profil GitHub !
 
-![Informatique](images/informatique.jpg)
+![Informatique](https://img.shields.io/badge/Informatique-Passionn%C3%A9e-blue)
 
 
 ## Génie Informatique

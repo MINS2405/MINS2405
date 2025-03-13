@@ -4,56 +4,74 @@
 
 ![Coding Banner](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-
-
-## Génie Informatique
+## 👩‍💻 Génie Informatique
 
 ### :wave: À propos de moi
 
-Salut, moi c’est Mina Sinani !
+Salut, moi c'est Mina Sinani !
 
 Étudiante en informatique passionnée par le développement web et mobile. :mortar_board: En première année à Holberton School.
 
 Basée à Saint-Julien-en-Genevois, je cherche une alternance en cybersécurité pour approfondir mes compétences.
 
-### Ce que je fais :
+### 🛠️ Compétences Techniques
 
-Je développe des solutions web et mobiles en mettant l'accent sur l'expérience utilisateur, la performance et la sécurité. J'aime innover et perfectionner mes compétences à travers des projets personnels et collaboratifs.
+| Catégorie | Compétences |
+|-----------|-------------|
+| Langages  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
+| Web       | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| Outils    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
-### En cours d'apprentissage :
+### 📚 En cours d'apprentissage
 
-- :building_construction: **Développement Full Stack** : Découverte des frameworks modernes pour des applications complètes et performantes.
-- :lock: **Cybersécurité** : Exploration des principes et techniques pour protéger les systèmes et les données.
-- :coffee: **JavaScript** : Maîtrise du langage pour le développement web côté client.
-- :snake: **Python** : Apprentissage du langage pour diverses applications, notamment le développement web et l'automatisation.
-- :computer: **Langage C** : Fondements de la programmation système avec le langage C.
+- :building_construction: **Développement Full Stack** : Frameworks modernes pour des applications complètes.
+- :lock: **Cybersécurité** : Principes et techniques de protection des systèmes.
+- :coffee: **JavaScript avancé** : Approfondissement pour le développement web côté client.
+- :snake: **Python** : Applications diverses, dont le développement web et l'automatisation.
+- :computer: **Langage C** : Fondements de la programmation système.
 
-### Objectifs :
+### 🎯 Objectifs
 
 - :rocket: Améliorer mes compétences en développement web et mobile.
-- :star2: Trouver une alternance en cybersécurité pour approfondir mes connaissances.
-- :handshake: Contribuer à des projets technologiques ambitieux.
+- :star2: Décrocher une alternance en cybersécurité.
+- :handshake: Contribuer à des projets technologiques innovants.
 
-### Passions :
+
+### 📊 Statistiques GitHub
+
+[![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=MINS2405&show_icons=true&theme=radical)](https://github.com/MINS2405)
+
+### 🔥 Streak GitHub
+
+[![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=MINS2405&show_icons=true&theme=default)](https://github.com/MINS2405)
+
+
+
+### 💖 Passions
 
 - :art: **Art** : Exprimer ma créativité.
 - :fried_egg: **Cuisine** : Tester de nouvelles recettes.
 - :shopping_bags: **Shopping** : Suivre les tendances et trouver des pièces uniques.
 - :speaking_head_in_silhouette: **Apprentissage Langue** : Coréen.
 
-### Contacter :
+### 📫 Me Contacter
 
-:e-mail: Email : [emine.sinani224@gmail.com](mailto:emine.sinani224@gmail.com)  
-:link: LinkedIn : [www.linkedin.com/in/emine-sinani-84b267244](http://www.linkedin.com/in/emine-sinani-84b267244)
+- :e-mail: Email : [emine.sinani224@gmail.com](mailto:emine.sinani224@gmail.com)
+- :link: LinkedIn : [Emine Sinani](http://www.linkedin.com/in/emine-sinani-84b267244)
 
+### 😄 Fun Fact
+
+Saviez-vous que le premier "bug" informatique était littéralement un insecte ? En 1947, Grace Hopper a trouvé un papillon de nuit coincé dans un relais de l'ordinateur Harvard Mark II !
 
 <div align="center">
   <h3 style="color: #2986cc; font-weight: bold; text-shadow: 0 0 5px rgba(0, 0, 0, 0.2);">
     <span style="font-size: 1.5em;">🙏 Merci de votre visite !</span>
   </h3>
-  <p style="color: #666; font-size: 1em;">J'espère que vous avez apprécié mon profil 😊.</p>
+  <p style="color: #666; font-size: 1em;">J'espère que vous avez apprécié mon profil 😊</p>
+</div>
 
 ![Courbe](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
 
 
 

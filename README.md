@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+%40MINS2405;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
 </div>
 
-![Informatique](https://img.shields.io/badge/Informatique-Passionn%C3%A9e-blue)
+![Coding Banner](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+
 
 
 ## Génie Informatique

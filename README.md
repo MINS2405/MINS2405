@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+%40MINS2405;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+MINA;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
 </div>
 
 ![Coding Banner](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)

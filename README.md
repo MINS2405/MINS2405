@@ -45,38 +45,57 @@ Basée à Saint-Julien-en-Genevois, je cherche une alternance en cybersécurité
 
 [![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=MINS2405&show_icons=true&theme=default)](https://github.com/MINS2405)
 
-## 🤝 Projets Collaboratifs
 
 <div align="center">
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-team-agile-flaticons-lineal-color-flat-icons.png" alt="Team Icon"/>
 </div>
 
-### 🌟 Voici quelques projets réalisés en équipe :
+---
+## 🚀 Projets Collaboratifs
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100" alt="Coding Animation"/>
+</div>
 
 ---
 
-### 🛠️ **holbertonschool-printf**
-- **Description** :  
-  Un projet pour recréer la fonction `printf` du langage C. Ce projet m'a permis de renforcer mes compétences en :
-  - Programmation en C 🖥️
-  - Gestion de mémoire 🧠
-  - Collaboration en équipe 🤝
-- **Lien du projet** :  
-  [👉 Voir le dépôt GitHub](https://github.com/MINS2405/holbertonschool-printf.git)
-- **Contributeurs** :  
-  *(Ajoutez ici les noms d'utilisateurs GitHub de vos coéquipiers)*
+### 🖨️ **holbertonschool-printf** : Le Maître de l'Affichage
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+
+**Mission** : Recréer la légendaire fonction `printf` en C !
+
+**Compétences acquises** :
+- 🧠 Maîtrise du C comme un ninja
+- 💾 Jonglage avec la mémoire tel un magicien
+- 🤝 Collaboration d'équipe digne des Avengers
+
+**Plongez dans le code** : [🔥 Explorez le repo](https://github.com/MINS2405/holbertonschool-printf.git)
+
 
 ---
 
-### 🛠️ **holbertonschool-simple_shell**
-- **Description** :  
-  Un projet pour créer un shell simple en C. Ce projet m'a aidé à :
-  - Comprendre le fonctionnement des systèmes d'exploitation ⚙️
-  - Améliorer mes compétences en programmation système 💻
-- **Lien du projet** :  
-  [👉 Voir le dépôt GitHub](https://github.com/ni-mdj/holbertonschool-simple_shell.git)
-- **Contributeurs** :  
-  [ni-mdj](https://github.com/ni-mdj) *(et les autres contributeurs si vous les connaissez)*
+### 🐚 **holbertonschool-simple_shell** : Le Dompteur de Systèmes
+
+<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge"/>
+
+**Défi** : Créer un shell qui ferait pâlir d'envie Linus Torvalds !
+
+**Level-up** :
+- ⚙️ Maîtrise des systèmes d'exploitation comme Tony Stark
+- 💻 Programmation système à la Matrix
+
+**Entrez dans la matrice** : [🚀 Découvrez le projet](https://github.com/ni-mdj/holbertonschool-simple_shell.git)
+
+**Dream Team** : [ni-mdj](https://github.com/ni-mdj) 
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="Celebration Animation"/>
+  <p><em>Ces projets ne sont pas juste du code, ce sont des aventures épiques dans l'univers de la programmation !</em></p>
+</div>
+
 
 ---
 <i class="fas fa-code fa-2x"></i>

@@ -5,14 +5,14 @@
 ![Coding Banner](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
 ## 👩‍💻 Génie Informatique
-
+![GIF Animé](https://media1.giphy.com/media/cDZJ17fbzWVle68VCB/giphy.gif)
 ### :wave: À propos de moi
 
 Salut, moi c'est Mina Sinani !
 
-Étudiante en informatique passionnée par le développement web et mobile. :mortar_board: En première année à Holberton School.
+Étudiante en informatique passionnée par le développement web et mobile. :mortar_board: En première année à Holberton School.               
 
-Basée à Saint-Julien-en-Genevois, je cherche une alternance en cybersécurité pour approfondir mes compétences.
+Basée à Saint-Julien-en-Genevois, je cherche une alternance en développement informatique pour approfondir mes compétences.
 
 ### 🛠️ Compétences Techniques
 
@@ -109,6 +109,9 @@ https://mina-holbertonschool.my.canva.site/bleu-et-blanche-carte-heuristique-prs
 - [Tutoriel Python pour débutants](https://www.freecodecamp.org/news/python-code-examples-sample-script-coding-tutorial-for-beginners/)
 - [Créer une application web avec Flask](https://realpython.com/python-web-applications/)
 - [Quiz interactif en JavaScript](https://dev.to/emmykolic/how-to-build-an-interactive-quiz-project-using-vanilla-javascript-jdh)
+
+## Illustration animée 🤖
+![GIF Animé](https://64.media.tumblr.com/0a132b91a3d9f2e6d98926ddf3dae31c/16b0f6a4b3f0435c-f4/s640x960/45386dfcd4e94900e55fde584ac76ae14a9057d0.gif)
 
 
 ### 💖 Passions

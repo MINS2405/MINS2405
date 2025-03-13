@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MINS2405# Bienvenue sur mon profil GitHub !
 
-![Informatique](https://source.unsplash.com/featured/?technology,computer,code)
+![Informatique](images/informatique.jpg)
+
 
 ## Génie Informatique
 

@@ -123,7 +123,7 @@ https://mina-holbertonschool.my.canva.site/bleu-et-blanche-carte-heuristique-prs
 
 ### 📫 Me Contacter
 
-- :e-mail: Email : [emine.sinani224@gmail.com](mailto:emine.sinani224@gmail.com)
+- :e-mail: Email : [9963@holbertonstudents.com](9963@holbertonstudents.com)
 - :link: LinkedIn : [Emine Sinani](http://www.linkedin.com/in/emine-sinani-84b267244)
 
 ### 😄 Fun Fact

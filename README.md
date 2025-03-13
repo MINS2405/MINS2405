@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @MINS2405# Bienvenue sur mon profil GitHub !
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+%40MINS2405;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
+</div>
 
 ![Informatique](https://img.shields.io/badge/Informatique-Passionn%C3%A9e-blue)
 
@@ -44,7 +46,18 @@ Je développe des solutions web et mobiles en mettant l'accent sur l'expérience
 :link: LinkedIn : [www.linkedin.com/in/emine-sinani-84b267244](http://www.linkedin.com/in/emine-sinani-84b267244)
 
 
-<!---
-MINS2405/MINS2405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h3 style="color: #2986cc; font-weight: bold; text-shadow: 0 0 5px rgba(0, 0, 0, 0.2);">
+    <span style="font-size: 1.5em;">🙏 Merci de votre visite !</span>
+  </h3>
+  <p style="color: #666; font-size: 1em;">J'espère que vous avez apprécié mon profil 😊.</p>
+
+![Courbe](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
+
+
+
+
+
+
+

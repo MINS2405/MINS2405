@@ -45,6 +45,45 @@ Basée à Saint-Julien-en-Genevois, je cherche une alternance en cybersécurité
 
 [![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=MINS2405&show_icons=true&theme=default)](https://github.com/MINS2405)
 
+## 🤝 Projets Collaboratifs
+
+<div align="center">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-team-agile-flaticons-lineal-color-flat-icons.png" alt="Team Icon"/>
+</div>
+
+### 🌟 Voici quelques projets réalisés en équipe :
+
+---
+
+### 🛠️ **holbertonschool-printf**
+- **Description** :  
+  Un projet pour recréer la fonction `printf` du langage C. Ce projet m'a permis de renforcer mes compétences en :
+  - Programmation en C 🖥️
+  - Gestion de mémoire 🧠
+  - Collaboration en équipe 🤝
+- **Lien du projet** :  
+  [👉 Voir le dépôt GitHub](https://github.com/MINS2405/holbertonschool-printf.git)
+- **Contributeurs** :  
+  *(Ajoutez ici les noms d'utilisateurs GitHub de vos coéquipiers)*
+
+---
+
+### 🛠️ **holbertonschool-simple_shell**
+- **Description** :  
+  Un projet pour créer un shell simple en C. Ce projet m'a aidé à :
+  - Comprendre le fonctionnement des systèmes d'exploitation ⚙️
+  - Améliorer mes compétences en programmation système 💻
+- **Lien du projet** :  
+  [👉 Voir le dépôt GitHub](https://github.com/ni-mdj/holbertonschool-simple_shell.git)
+- **Contributeurs** :  
+  [ni-mdj](https://github.com/ni-mdj) *(et les autres contributeurs si vous les connaissez)*
+
+---
+<i class="fas fa-code fa-2x"></i>
+
+
+
+
 
 
 ### 💖 Passions

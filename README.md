@@ -101,8 +101,16 @@ Basée à Saint-Julien-en-Genevois, je cherche une alternance en cybersécurité
 <i class="fas fa-code fa-2x"></i>
 
 
+# 📚 Lien de Présentation Programmation 
+https://mina-holbertonschool.my.canva.site/bleu-et-blanche-carte-heuristique-prsentation 
 
+# 🎓 Leçons enrichissantes
 
+## Fichiers associés
+
+- [Fichier 1 : Python Mina](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/36789721/2a8fd0b4-283a-4eff-a5c4-6a4768402e1b/python-mina.pdf)
+- [Fichier 2 : Un Shell](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/36789721/837acfd8-b2a6-46d2-94d7-ac31081c0591/Un-shell.pdf)
+- [Fichier 3 : Printf / Arbre Binaire](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/36789721/ece22f65-da6d-4c90-9b21-12de43ef5b23/printf-arbre-binaire.pdf)
 
 
 ### 💖 Passions

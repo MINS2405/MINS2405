@@ -102,8 +102,7 @@ Basée à Saint-Julien-en-Genevois, je cherche une alternance en développement 
 
 
 # 📚 Lien de Présentation Programmation 
-[Présentation Programmation](https://mina-holbertonschool.my.canva.site/bleu-et-blanche-carte-heuristique-pr%C3%A9sentation)
-
+![Présentation Programmation](https://mina-holbertonschool.my.canva.site/bleu-et-blanche-carte-heuristique-pr-sentation)
 
 
 ## Ressources de programmation

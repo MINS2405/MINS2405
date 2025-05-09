@@ -1,4 +1,6 @@
 
+<img src="URL_DE_TA_BANNIERE_NOIRE" alt="Bannière noire" width="100%">
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+MINA;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
 </div>

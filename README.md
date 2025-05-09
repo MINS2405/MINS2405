@@ -1,3 +1,5 @@
+<div style="background-color: #000000 black; color: #FFFFFF white; padding: 15px;">
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+MINA;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
 </div>
@@ -135,6 +137,8 @@ Saviez-vous que le premier "bug" informatique était littéralement un insecte ?
 </div>
 
 ![Courbe](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
+</div>
 
 
 

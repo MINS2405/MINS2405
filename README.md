@@ -1,5 +1,4 @@
-
-<img src="URL_DE_TA_BANNIERE_NOIRE" alt="Bannière noire" width="100%">
+<img src="https://pplx-res.cloudinary.com/image/private/user_uploads/36789721/36bc1b73-9874-47e2-9623-e928715ab628/image.jpg" alt="Bannière noire" width="100%">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=👋+Hi%2C+I'm+MINA;Passionnée+d'informatique;Étudiante+en+développement+web" alt="Typing SVG" />
